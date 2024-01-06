@@ -1,0 +1,122 @@
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin: 8vh auto;
+    width: 80%;
+
+    .card {
+        position: relative;
+        margin: 2rem;
+        padding-top: 22vh;
+        padding-bottom: 0;
+
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        border-radius: 8px;
+
+        .card-content {
+            background: rgba(0,0,0, 0.2);
+            backdrop-filter: blur(10px);
+            border-radius: 0 0 8px 8px;
+            height: 10rem;
+
+            p {
+                margin: 0;
+            }
+
+            h3 {
+                margin: 0;
+                margin-left: 1rem;
+                color: #FFF;
+                text-transform: capitalize;
+                font-size: 2.2rem;
+                line-height: 2.5rem;
+                font-weight: 600;
+            }
+
+            .tag {
+                margin: 0 1rem;
+                padding-top: 1rem;
+            }
+
+            .aniversario_01 {
+                color: #8bc6ec;
+                text-transform: capitalize;
+            }
+
+            .aniversario_02 {
+                color: #ffb536;
+                text-transform: capitalize;
+            }
+
+            .aniversario_03 {
+                color: #85ffbd;
+                text-transform: capitalize;
+            }
+
+            .aniversario_04 {
+                color: #21D4FD;
+                text-transform: capitalize;
+            }
+        }
+
+        &::after {
+            font-family: "Font Awesome 5 Free"; 
+            font-weight: 900; 
+            content: "\f144";
+            font-size: 5rem;
+            color: #d7dce3;
+            position: absolute;
+            top: 20vh;
+            right: 1rem;
+            opacity: 0;
+            transition: .2s ease;
+        }
+
+        &:hover::after {
+            opacity: 1;
+            top: calc(20vh - 2rem);
+        }
+    }
+}
+
+
+@media only screen and (max-width: 1280px) {
+    .cards {
+
+        .card {
+            margin: 1rem;
+
+            .card-content {
+                h3 {
+                    font-size: 2rem;
+                    line-height: 2rem;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .cards {
+        grid-template-columns: 1fr;
+        margin: 10rem auto;
+        width: 80%;
+
+        .card {
+            margin: 1rem;
+            padding-top: 32vh;
+
+            .card-content {
+                height: 10rem;
+
+                h3 {
+                    font-size: 2rem;
+                    line-height: 2rem;
+                }
+            }
+        }
+    }
+}

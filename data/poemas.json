@@ -1,0 +1,16 @@
+[
+    {
+        "id": "link poemario",
+        "tituloPoemario": "a",
+        "link": {
+            "linkVideo": "a",
+            "linkFoto": "a",
+            "linkAudio": "a"
+        },
+        "explicacion": "a",
+        "poemas": [
+            { "tituloPoema": "a", "poema": "a" },
+            { "tituloPoema": "b", "poema": "a" }
+        ]
+    }
+]
