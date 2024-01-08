@@ -1,0 +1,45 @@
+.about {
+    width: 85%;
+    margin: 5rem auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+
+    div {
+        background-color: #252835;
+        border-radius: 8px;
+        padding: 4rem;
+        margin-top: 3rem;
+        transition: .1s ease;
+        margin-bottom: 7.6rem;
+
+        h3 {
+            font-size: 4rem;
+            line-height: 4.2rem;
+            text-transform: capitalize;
+            font-weight: 800;
+            margin-top: 0;
+            color: #fafafa;
+        }
+
+        p {
+            font-size: 2.3rem;
+            font-weight: 100;
+            text-indent: 2rem;
+        }
+
+        &:hover {
+            background-color: #3a3e54;
+        }
+    }
+
+    .lu {
+        img {
+            border-bottom: solid #d7dce3 2px;
+        }
+    }
+
+    .yo {
+        height: 50vh;
+    }
+}

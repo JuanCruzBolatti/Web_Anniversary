@@ -1,1 +1,46 @@
-<h2>{{tituloPoemario}}</h2>
+<div class="titulo-poemario">
+    <h2> {{tituloPoemario}} - <span class="{{tag}}"> {{tag}} </span> </h2>
+</div>
+
+<div class="poemario-contenido">
+
+    <div class="poemario-c1">
+        <iframe id="youtubePlayer" src="{{linkVideo}}" title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+        <div class="poemario-botones">
+            <a href="{{linkFoto}}"> <i class="fa-solid fa-image"></i> </a>
+            <a href="{{linkAudio}}"> <i class="fa-solid fa-photo-film"></i> </a>
+            <button>
+                <i class="fa-solid fa-j icon-display"></i>
+                <i class="fa-solid fa-backward icon-display-none"></i>
+            </button>
+            <button>
+                <i class="fa-solid fa-k icon-display"></i>
+                <i class="fa-solid fa-pause icon-display-none" style="font-size: 1.6rem;"></i>
+            </button>
+            <button>
+                <i class="fa-solid fa-l icon-display"></i>
+                <i class="fa-solid fa-forward icon-display-none"></i>
+            </button>
+        </div>
+        <div class="explicacion">
+            <h3>Explicación</h3>
+            <p>{{{explicacion}}}</p>
+        </div>
+        <div id="finExplicacion"></div>
+        
+    </div>
+
+    <div class="poemario-c2">
+        <ul>
+            {{#each poemas}}
+            <li>
+                <h3 class="pepepe">{{tituloPoema}}</h3>
+                <p class="pepepe"> {{{poema}}} </p>
+            </li>
+            {{/each}}
+        </ul>
+    </div>
+
+</div>

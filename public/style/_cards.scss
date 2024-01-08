@@ -33,32 +33,12 @@
                 text-transform: capitalize;
                 font-size: 2.2rem;
                 line-height: 2.5rem;
-                font-weight: 600;
+                font-weight: 600; 
             }
 
             .tag {
                 margin: 0 1rem;
                 padding-top: 1rem;
-            }
-
-            .aniversario_01 {
-                color: #8bc6ec;
-                text-transform: capitalize;
-            }
-
-            .aniversario_02 {
-                color: #ffb536;
-                text-transform: capitalize;
-            }
-
-            .aniversario_03 {
-                color: #85ffbd;
-                text-transform: capitalize;
-            }
-
-            .aniversario_04 {
-                color: #21D4FD;
-                text-transform: capitalize;
             }
         }
 
@@ -119,4 +99,24 @@
             }
         }
     }
+}
+
+.aniversario_01 {
+    color: #8bc6ec;
+    text-transform: capitalize;
+}
+
+.aniversario_02 {
+    color: #ffb536;
+    text-transform: capitalize;
+}
+
+.aniversario_03 {
+    color: #85ffbd;
+    text-transform: capitalize;
+}
+
+.aniversario_04 {
+    color: #21D4FD;
+    text-transform: capitalize;
 }

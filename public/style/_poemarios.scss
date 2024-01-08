@@ -1,0 +1,147 @@
+.poemario-contenido {
+    width: 85%;
+    margin: 5rem auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    p,
+    h3 {
+        color: #fff;
+    }
+
+    .poemario-c1 {
+
+        iframe {
+            width: 100%;
+            aspect-ratio: 16/9;
+            border-radius: 8px;
+        }
+
+        
+        .video-chiquito {
+            position: fixed;
+            top: 3rem;
+            left: 7.5vw;
+            width: 42.5%;
+            aspect-ratio: 16/9;
+            border-radius: 8px;
+        }
+
+        .poemario-botones {
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+
+            a,
+            button {
+                position: relative;
+                background-color: #252835;
+                color: #d7dce3;
+                border: none;
+                padding: 1rem 2rem;
+                border-radius: 8px;
+                text-align: center;
+
+                &::before {
+                    content: "";
+                    position: absolute;
+                    background-color: #070c22;
+                    width: 100%;
+                    height: 2rem;
+                    border-radius: 8px;
+                    top: 3.5rem;
+                    left: 0;
+                    z-index: -99;
+                    transition: .15s ease;
+                }
+
+                &:hover::before {
+                    top: 2rem;
+                }
+
+            }
+
+            button {
+                .icon-display {
+                    display: block;
+                    transition: .2s ease;
+                }
+                .icon-display-none {
+                    display: none;
+                    transition: .2s ease;
+                    font-size: 1rem;
+                }
+
+                &:hover {
+                    .icon-display {
+                        display: none;
+                    }
+                    .icon-display-none {
+                        display: block;
+                    }
+                }
+            }
+
+            a {
+                padding: 1rem 4rem;
+            }
+        }
+
+        .explicacion {
+            background-color: #252835;
+            border-radius: 8px;
+            padding: 4rem;
+            margin-top: 3rem;
+            transition: .1s ease;
+
+            h3 {
+                font-size: 4rem;
+                line-height: 4.2rem;
+                text-transform: capitalize;
+                font-weight: 800;
+                margin-top: 0;
+            }
+    
+            p {
+                font-size: 2.3rem;
+                font-weight: 100;
+                text-indent: 2rem;
+            }
+
+            &:hover {
+                background-color: #3a3e54;
+            }
+        }
+    }
+
+    .poemario-c2 {
+        li {
+            background-color: #252835;
+            padding: 5rem 0;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            transition: .1s ease;
+
+            &:hover {
+                background-color: #3a3e54;
+            }
+        }
+
+        h3 {
+            font-size: 4rem;
+            line-height: 4.2rem;
+            text-transform: capitalize;
+            font-weight: 800;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        p {
+            font-size: 2.6rem;
+            line-height: 3.8rem;
+            font-weight: 300;
+            text-align: center;
+            margin-bottom: 0;
+        }
+    }
+}

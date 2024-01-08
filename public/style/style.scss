@@ -58,19 +58,21 @@ img {
 }
 
 ul {
+  margin: 0;
   list-style-type: none;
 }
 
-h1 {
+h1, h2 {
   color: #f5f5f5;
   margin: 5rem 5rem 0;
   font-size: 5rem;
 }
 
-h2 {
-  color: #f5f5f5;
-  margin: 5rem 5rem 0;
-  font-size: 5rem;
+@media only screen and (min-width: 768px) { // CAMBIAR
+  h1, h2 {
+    margin: 5rem 5rem 0;
+    font-size: 5rem;
+  }
 }
 
 /** Utilities **/
@@ -130,3 +132,18 @@ h2 {
 
 /** Cards **/
 @import 'cards';
+
+/** Poemarios **/
+@import 'poemarios';
+
+/** About **/
+@import 'about';
+
+/** Cositas **/
+#contador {
+  align-items: center;
+  text-align: center;
+  color: #d7dce3;
+  font-size: 10rem;
+  font-weight: 900;
+}

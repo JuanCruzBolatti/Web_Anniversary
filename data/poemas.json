@@ -1,16 +1,152 @@
-[
-    {
-        "id": "link poemario",
-        "tituloPoemario": "a",
-        "link": {
-            "linkVideo": "a",
-            "linkFoto": "a",
-            "linkAudio": "a"
+{
+    "poemarios": [
+        {
+            "id": "improvisacion_de_un_querer",
+            "tituloPoemario": "Improvisación de un Querer",
+            "tag": "aniversario_01",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/-pOSTVJ410U?si=j41mQbFKvW-Z1Xsc",
+                "linkFoto": "https://drive.google.com/drive/folders/1GLeQ8PieLQuQzCRiQcShjBS4HAXowXAG?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/1bjTFoBHWuUD3VDasaeELF_t9DehypAbt?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "I",
+                    "poema": "Sobre mi alma hay una columna de estrellas, <br> que dibujan las artes más bellas, <br> y entre ellas estás vos. <br> Y en mi corona de fantasía, <br> hay una realidad que me acaricia cada día <br> y me recuerda que en mi vida <br> faltaba rezarte como dios. <br> Ahora que me decías <br> que la hora era mía, <br> yo te clavé en mi futura vía <br> para no clavarme en la cruz. <br> Y no importa lo que digas, <br> escúchame con claridad, <br> yo te quiero y mucho más, <br> eso nada lo va a cambiar. <br> Sos mi lucero, <br> y por eso yo te quiero, <br> marcas a donde tengo que ir <br> en mi perdido cielo. <br> Y gracias a dios que yo te tengo, <br> porque sino, aún estaría escribiendo <br> sobre un corazón en amargura, <br> que no se complacería con ninguna, <br> por no estar recibiendo luz alguna. <br> Así que gracias, <br> y mucho más que gracias, <br> pero no encuentro las palabras <br> porque solo ante vos soy plenitud. <br>"
+                },
+                {
+                    "tituloPoema": "II",
+                    "poema": "Soy como cuando era pequeño, <br> voy queriendo todo lo que veo, <br> pero en mis ojos de sueño <br> todo lo que veo es tu reflejo. <br> Y cuando yo pedía algo, <br> siempre la misma canción: <br> “no podemos dártelo”, <br> pero yo te quiero sin justificación. <br> Así que le insistiré a dios <br> para ganarme tu compañía, <br> y que lleguen esos días <br> donde estemos solos los dos. <br> Y no importa si la noche me desvela, <br> porque quiero navegar entre tu sonrisa <br> y que tu voz me mueva con su brisa <br> para llegar junto a la luna llena. <br> Porque sos lo que mi corazón precisa, <br> imprevista como canto de sirena, <br> haces que todas mis noches sean buenas <br> como beso de la hermosa Artemisa. <br> Y como todas estas letras son sinceras, <br> no puedo irme sin recordarte <br> aunque no rime en este arte: <br> que te quiero. <br>"
+                },
+                {
+                    "tituloPoema": "III",
+                    "poema": "Ves la campana que resuena a lo lejos, <br> esa que dibuja la figura de la montaña, <br> esa que hace de las lagunas espejos, <br> esa que arde dentro de la cabaña, <br> esa que da sabor al vino añejo. <br> Ves esa campana, <br> que me marea con su silueta atrevida, <br> que retrata los versos de mi sonrisa, <br> que recorre los besos de mis ideas, <br> que le da razón a mi sapiencia. <br> Esa campana, <br> a mis sentimientos maltrata, <br> a mi alma de plata relata, <br> a mi corazón lo delata, <br> a mis venas dilata. <br> Ves esa campana que dentro de mí suena, <br> no es mía, es el dulce canto de ella. <br>"
+                },
+                {
+                    "tituloPoema": "IV",
+                    "poema": "Mira entre los recovecos: <br> ahí estábamos nosotros dos, <br> acostados como imagen y su reflejo, <br> mirándonos como quien salta confiando en dios. <br> Mi corazón latiendo en descontrol, <br> sintiendo la respiración <br> que bailaba entre tu pelo. <br> Mientras se cocía el calor <br> que gritaba a babor <br> tu abrazo de caramelo. <br> Yo sabía que entre los dos <br> nacía lo mejor, <br> y eso es este: te quiero. <br>"
+                }
+            ]
         },
-        "explicacion": "a",
-        "poemas": [
-            { "tituloPoema": "a", "poema": "a" },
-            { "tituloPoema": "b", "poema": "a" }
-        ]
-    }
-]
+        {
+            "id": "cuna_de_luna",
+            "tituloPoemario": "Cuna de Luna",
+            "tag": "aniversario_01",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/XGMTTZUYa4o?si=V_TROHU5yAMCHoeU",
+                "linkFoto": "https://drive.google.com/drive/folders/1viK6fU_iXrUNjwhyyOD-AmDHhegvhIJx?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/12fVU9SFu3iGwmXFr3MziCY6KBZQ_F2zx?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "A Dormir",
+                    "poema": "A dormir, <br> a dormir hermosa mía <br> que ya llegaron los angelitos <br> para hacerte compañía. <br> A dormir, <br> que mañana es un gran día <br> lleno de los regalitos <br> que me da tu dulce sonrisa. <br> A dormir, <br> con tus sueños de fantasía <br> que al pedirlos en el arbolito <br> se harán realidad divina. <br> A dormir, <br> que en esta noche fría <br> abrimos tu corazoncito <br> para dormir en la alegría. <br>"
+                },
+                {
+                    "tituloPoema": "La Leyenda del Sueño",
+                    "poema": "Cuenta la leyenda <br> cantada por un ruiseñor <br> que las noches son siempre tiernas <br> si se acompañan con tu voz. <br> Cuenta la leyenda <br> que un día el cielo oscureció <br> hasta que estuviste despierta <br> y por vos el sol apareció. <br> Cuenta la leyenda <br> que el mundo por vos corría, <br> que los ríos se navegaban <br> para hacerte compañía. <br> Cuenta la leyenda <br> que un bosque madrugaba <br> y vos como su diosa <br> con tu amor lo ayudabas, <br> y que vio la luna <br> cuanto era lo que amabas <br> siendo su nieve vida <br> tu hermosa sonrisa dentada. <br> Contaba la leyenda <br> que tenes un gran corazón <br> y después de un año juntos <br> me demostraste que no es ficción. <br>"
+                },
+                {
+                    "tituloPoema": "Vuelo del Playero Rojizo",
+                    "poema": "Sube, sube, sube, <br> el dueño del cielo <br> cantando en las nubes. <br> Para dejar su huella <br> por el aire este planea. <br> Baja, baja, baja, <br> para en la tierra <br> sembrar esperanza. <br>"
+                },
+                {
+                    "tituloPoema": "Cielo Nocturno",
+                    "poema": "Mira para arriba con los ojos cerrados <br> ahí está, el cielo más bello, <br> no hagas caso a lo que dicen ellos <br> “ellos” tienen los sentidos vendados. <br> Todo lo malo yo lo embotello <br> y en el mar quedará mareado, <br> siguiendo su flujo encorvado <br> nos encontramos un puente llamado tu cuello. <br> Mira para arriba con los ojos cerrados <br> ahí está, el cielo más bello, <br> no te dejes caer por el peso del suelo <br> en tu destino está el paraíso ganado. <br> Camino hermosamente amapolado <br> te guiará a los mejores sueños <br> cuando decidas emprender tu vuelo <br> se despertarán tus ojos cansados. <br> Mira para arriba con los ojos cerrados <br> ahí está, el cielo más bello, <br> en tu hermoso palacio de hielo <br> tenes el sueño asegurado. <br> Ya no hay que tener más miedo <br> mi alma te está abrazando <br> y para curarte todo el espanto <br> mira para arriba al más bello cielo. <br>"
+                }
+            ]
+        },
+        {
+            "id": "estacion",
+            "tituloPoemario": "Estación 23",
+            "tag": "aniversario_02",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/CjaA5y3YJsE?si=gKs7UAmOch7HY_qx",
+                "linkFoto": "https://drive.google.com/drive/folders/1t2FvwANIqnxujXm_c2yri3KjyVGMR0-R?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/1T5RiWMZWvjdIhjJUGmuookjWHvEEo-bl?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> <p> Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "Verano",
+                    "poema": "El camino <br> con nombre “a tu mundo” <br> empezó en una noche fría, <br> que era amor paz y calma <br> en el intenso del verano. <br> Las hojas danzaban <br> el impulso a desearte, <br> y me desligué de toda premisa <br> para ser parte de tu cuento. <br> “Yo ante el arte no me niego” <br> dije al ver tu poesía, <br> “la única parte de desespero” <br> dije al ver cómo mi corazón latía <br> y latía <br> dios que latía, <br> sintiendo el calor de tu proximidad <br> como el sol doblemente reflejado <br> en su danza hacia mis sentidos, <br> sentidos totalmente fundidos <br> en la pasión <br> de la tristeza en los pucheros <br> de no tenerte cerca. <br> Como olvidar ese verano <br> con nombre “a nuestro fruto”, <br> fruto del amor <br> que lleva tanto tiempo. <br>"
+                },
+                {
+                    "tituloPoema": "Primer Paso - Humo",
+                    "poema": "El humo suspira sombrío <br> su nacimiento de ceniza, <br> que ante el sol del verano <br> se hizo odiosa. <br> Espera <br> a que tu rezo celoso <br> sea como una hoja <br> cayendo en el otoño. <br>"
+                },
+                {
+                    "tituloPoema": "Otoño",
+                    "poema": "Cae la hoja <br> haciendo de su recorrido <br> una sonrisa implacable <br> para los sentidos <br> de tu cintura, <br> que se tuerce levemente <br> para estirar un sueño, <br> el sueño de ser contacto <br> con la hoja. <br> Y de la tuya, viene mi risa <br> porque en ese momento <br> de tu intensa ternura, <br> viene acompañado <br> mi más profundo amor, <br> al saber <br> que te amo con locura. <br>"
+                },
+                {
+                    "tituloPoema": "Segundo Paso – Pasto",
+                    "poema": "El pasto reina el destino <br> de tu sueño al descanso, <br> que al caer la hoja de otoño <br> se hizo trizas a tu paso. <br> Espera <br> la brisa sin vista bienvenida <br> a tu corazón cálido, <br> del invierno ocaso. <br>"
+                },
+                {
+                    "tituloPoema": "Invierno",
+                    "poema": "Si la navidad fuera en invierno <br> vos serías todas las luces <br> del árbol de mi fantasía, <br> porque toda estrella que brilla <br> coronando la manta oscura <br> lleva tu nombre, <br> como diosa de los momentos <br> en los que recuerdo tu amor <br> y me convierto en el <br> corazón que salta <br> al ver el árbol brillante <br> de deseos y compañías. <br>"
+                },
+                {
+                    "tituloPoema": "Tercer Paso – Niebla",
+                    "poema": "La niebla busca tus ojos <br> con el viento de invierno, <br> y al no hallarlos, <br> la pobre queda atrapada. <br> Espera <br> a que tu cerezo beso <br> reviva su nombre <br> en vientre primavera. <br>"
+                },
+                {
+                    "tituloPoema": "Primavera",
+                    "poema": "Se escucha el latido <br> del viento mendigo <br> que va susurrando tu voz, <br> sonriendo testigo <br> cuando estás conmigo <br> que canta feliz junto a vos. <br> Mira la marea <br> que brilla perpleja <br> porque sos luna en su canción, <br> y cuando navega <br> la bruma despeja <br> todo miedo por compasión. <br>"
+                },
+                {
+                    "tituloPoema": "Cuarto Paso - Cascada",
+                    "poema": "La cascada fluye tu nombre <br> e invoca con esta poesía <br> los pétalos caídos <br> de la primavera regalada. <br> Espera <br> a que el río fluya <br> para siempre encontrarse <br> con vos, otra vez. <br>"
+                },
+                {
+                    "tituloPoema": "Verano otra vez",
+                    "poema": "Y es verano otra vez, <br> y con las fiestas <br> se acerca nuestro aniversario <br> y recuerdo tantos momentos, <br> y veo tantas fotos, <br> y me enamoro cada vez <br> que escucho tu nombre. <br> Es verano otra vez, <br> y con él viene mi deseo <br> de que lo disfrutes como ninguno <br> y que te pases el resto <br> de las estaciones recordando <br> todo nuestro tiempo juntos. <br>"
+                }
+            ]
+        },
+        {
+            "id": "rezos",
+            "tituloPoemario": "Rezos",
+            "tag": "aniversario_02",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/ZAUrqVi4chk?si=tjdDyDOn5gf7F10P",
+                "linkFoto": "https://drive.google.com/drive/folders/1bNNNSZIYdWguQH47iS1-8CFqbkDs9XmQ?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/1G-zltEViO0g1pd26U6l0_BE9esH0Od8j?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> <p> Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "Musa Calíope",
+                    "poema": "Habitaba el gran palacio <br> de las esfinges doradas, <br> cuando una musa <br> de porte divino <br> desdibujo todas las riquezas <br> que estaban a mi lado, <br> e hizo de las paredes <br> muro de cemento negro <br> y no dejó luz <br> más allá que la de sus ojos. <br> Más también se llevó mis necesidades <br> y se apropió de mis sentidos <br> dejándome completamente solo, <br> y me llenó con un canto <br> cargado con el valor de todo. <br>"
+                },
+                {
+                    "tituloPoema": "Cosmogonía",
+                    "poema": "¡Salud hijos de Sophia! <br> otórguenme el valor y la sabiduría <br> para enfrentarme a la sagrada tarea <br> de retratar esa bella imagen <br> susurrada por la musa. <br> De los designios del mundo <br> nació Lucia, <br> y de ella se hizo ese día <br> el más importante de todos, <br> y de él se hicieron de oro <br> los días venideros <br> que me dieron a mí, <br> nombre. <br> Santa diosa Lucia, <br> has coronado al mundo <br> con tu gracia, <br> has deformado la tristeza <br> asesinándola con tu nombre, <br> llenando vacíos <br> con el peso de tu alma. <br> Y si los dioses me acompañan, <br> voy a desarrollar la osadía <br> de nombrar a los hijos <br> que tu amor ha dado <br> en corazón ajenos <br> y propios. <br>"
+                },
+                {
+                    "tituloPoema": "Belleza",
+                    "poema": "Siendo tu gracia infalible <br> has creado en mil almas <br> bellezas inimaginables <br> en dos formas posibles. <br> De la primera <br> nació la belleza externa <br> porque verte <br> es ver todos los atardeceres <br> saludando a una mañana, <br> siendo esa mañana <br> un abrazo imposible de olvidar. <br> Tu belleza es <br> réplica y contraste <br> del roce con el pasto <br> y de la caricia del viento <br> mientras está garuando. <br> La segunda belleza, <br> que es hija de tu alma, <br> ha sembrado en otros <br> el arma de ver bello del mundo <br> en su eterna poesía. <br>"
+                },
+                {
+                    "tituloPoema": "Empatía",
+                    "poema": "Luego, <br> junto a la segunda, <br> ha nacido en tantos cuerpos <br> la empatía: <br> la marca de tu nombre, <br> la seriedad en tus motivos, <br> la belleza más profunda <br> la que crece lentamente <br> en lo que siembras cada día. <br>"
+                },
+                {
+                    "tituloPoema": "Fuerza",
+                    "poema": "Su fruto <br> es la fuerza, <br> fuerza que motiva, <br> fuerza imparable <br> que deforma el paso <br> para siempre caer delante. <br> Fuerza <br> que te has construido <br> y que has impuesto. <br>"
+                },
+                {
+                    "tituloPoema": "Estrellas",
+                    "poema": "Y de todo, <br> de todo lo que sos, <br> nacieron estrellas <br> cultivadas en miles <br> de corazones ajenos <br> haciendo constelaciones <br> con sus trozos, <br> uniendo sus conflictos <br> en pensamientos positivos <br> que les permiten caminar cada día, <br> y si prestas atención <br> verás un cielo sembrado de sentimientos <br> que respiran gracias al día <br> en el que fue tu nacimiento. <br>"
+                },
+                {
+                    "tituloPoema": "Gracias",
+                    "poema": "Y gracias a tu alma divina, <br> a tu corazón gigante, <br> la musa con su canto <br> llenó mi vacío <br> de amor y alegría. <br>"
+                }
+            ]
+        }
+    ]
+}
