@@ -147,6 +147,251 @@
                     "poema": "Y gracias a tu alma divina, <br> a tu corazón gigante, <br> la musa con su canto <br> llenó mi vacío <br> de amor y alegría. <br>"
                 }
             ]
+        },
+        {
+            "id": "improvisacion_de_un_querer_rehecho",
+            "tituloPoemario": "Improvisación de un Querer (Re-Hecho)",
+            "tag": "aniversario_03",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/dQw4w9WgXcQ?si=CUcG9KGQM7_aVv7z",
+                "linkFoto": "https://drive.google.com/drive/folders/1uDbUJWFvSCvUs9Z2eW9vw1YpRRK0alzj?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/10KGPRCiplpF8cJj_LaL2oXLXI5Wt9vyu?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> <p> Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "I",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "II",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "III",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "IV",
+                    "poema": "a"
+                }
+            ]
+        },
+        {
+            "id": "improvisacion_de_un_amar",
+            "tituloPoemario": "Improvisación de un Amar",
+            "tag": "aniversario_03",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/dQw4w9WgXcQ?si=CUcG9KGQM7_aVv7z",
+                "linkFoto": "https://drive.google.com/drive/folders/1uDbUJWFvSCvUs9Z2eW9vw1YpRRK0alzj?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/10KGPRCiplpF8cJj_LaL2oXLXI5Wt9vyu?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> <p> Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "I - Respuesta",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "II - Luna",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "III - Sol",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "IV - Corre",
+                    "poema": "a"
+                }
+            ]
+        },
+        {
+            "id": "cuna_de_luna_rehecho",
+            "tituloPoemario": "Cuna de Luna (Re-Hecho)",
+            "tag": "aniversario_03",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/dQw4w9WgXcQ?si=CUcG9KGQM7_aVv7z",
+                "linkFoto": "https://drive.google.com/drive/folders/1hvdBjncroDvHvGX6TyAwroM5ahbLpHaK?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/1AHBC8_3_17vvFS1FeaY8NJs-yuOi7mit?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> <p> Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "A Dormir",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "La Leyenda del Sueño",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Vuelo Del Playero Rojizo",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cielo Nocturno",
+                    "poema": "a"
+                }
+            ]
+        },
+        {
+            "id": "canto_de_luna",
+            "tituloPoemario": "Canto de Luna",
+            "tag": "aniversario_03",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/dQw4w9WgXcQ?si=CUcG9KGQM7_aVv7z",
+                "linkFoto": "https://drive.google.com/drive/folders/1hvdBjncroDvHvGX6TyAwroM5ahbLpHaK?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/1AHBC8_3_17vvFS1FeaY8NJs-yuOi7mit?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> <p> Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "Vigilia",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Somnolencia",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Sueño ligero",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Sueño profundo",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "REM",
+                    "poema": "a"
+                }
+            ]
+        },
+        {
+            "id": "constelaciones",
+            "tituloPoemario": "Constelaciones",
+            "tag": "aniversario_03",
+            "link": {
+                "linkVideo": "https://www.youtube.com/embed/dQw4w9WgXcQ?si=CUcG9KGQM7_aVv7z",
+                "linkFoto": "https://drive.google.com/drive/folders/1NtJhiuNEbWe07Dp39izZe-w8Yk8fdZkG?usp=drive_link",
+                "linkAudio": "https://drive.google.com/drive/folders/1bOyCX9_d1J3Vp9nx1KDNKkGx4CT-apfM?usp=drive_link"
+            },
+            "explicacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> <p> Maecenas dolor lorem, convallis a risus id, pulvinar mattis ante. Nullam dictum mauris sed massa semper, ut consectetur purus laoreet. Aenean in mi efficitur, aliquam tellus vitae, semper libero. In tortor tortor, venenatis id nisi eu, pretium scelerisque augue. Sed ex nisi, porttitor vitae consequat ac, tempus vel est. Nullam vitae lacinia felis, quis malesuada velit. Donec et lacus consequat, mollis est ac, sollicitudin elit. Pellentesque tristique ante ut risus aliquam dapibus. Suspendisse lacinia orci orci, finibus elementum lacus efficitur nec. Vestibulum viverra ante ac placerat sollicitudin. Donec vitae dui convallis, faucibus lectus at, consectetur turpis.",
+            "poemas": [
+                {
+                    "tituloPoema": "Tierra",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cielo - I",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cielo - II",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Constelaciones - I",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Constelaciones - II",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Constelacion - III",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Constelacion - IV",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cuerpo - I",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cuerpo - II",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cuerpo - III",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cuerpo - IV",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cuerpo - V",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cuerpo - VI",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Cuerpo - VII",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Voz - I",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Voz - II",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Magia - I",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Magia - II",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Magia - III",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Magia - IV",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Empatía - I",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Empatía - II",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Empatía - III",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Empatía - IV",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Empatía - V",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Empatía - VI",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Empatía - VII",
+                    "poema": "a"
+                },
+                {
+                    "tituloPoema": "Final",
+                    "poema": "a"
+                }
+            ]
         }
     ]
 }

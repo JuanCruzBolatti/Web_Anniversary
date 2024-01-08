@@ -63,4 +63,9 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 
+// 
+function teamo(element) {
+  const colores = ["#dc143c", "#21D4FD", "#85ffbd", "#ffb536", "#8bc6ec", "#9553c6"];
+  element.style.color = colores[obtenerEnteroAleatorio(0, 5)];
+}
 

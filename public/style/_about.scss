@@ -6,6 +6,7 @@
     gap: 4rem;
 
     div {
+        position: relative;
         background-color: #252835;
         border-radius: 8px;
         padding: 4rem;
@@ -26,6 +27,8 @@
             font-size: 2.3rem;
             font-weight: 100;
             text-indent: 2rem;
+            color: #d7dce3;
+            text-align: justify;
         }
 
         &:hover {
@@ -34,12 +37,35 @@
     }
 
     .lu {
-        img {
-            border-bottom: solid #d7dce3 2px;
+        h3 {
+            font-size: 5rem;
+            font-weight: 900;
+        }
+
+        .postdata {
+            font-size: 1.8rem;
+            color: #c1c5ca;
+            margin: 0;
         }
     }
 
     .yo {
-        height: 50vh;
+        .postdata {
+            position: absolute;
+            font-size: 1.8rem;
+            color: #c1c5ca;
+            bottom: 2rem;
+
+            a {
+                i {
+                    color: red;
+                    transition: .15s ease;
+
+                    &:hover {
+                        color: aqua;
+                    }
+                }
+            }
+        }
     }
 }
