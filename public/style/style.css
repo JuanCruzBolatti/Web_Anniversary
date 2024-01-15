@@ -381,6 +381,7 @@ h1, h2 {
   font-size: 2.3rem;
   font-weight: 100;
   text-indent: 2rem;
+  text-align: justify;
 }
 .poemario-contenido .poemario-c1 .explicacion:hover {
   background-color: #3a3e54;
@@ -411,6 +412,18 @@ h1, h2 {
   margin-bottom: 0;
 }
 
+@media only screen and (max-width: 768px) {
+  .poemario-contenido {
+    width: 90%;
+    grid-template-columns: 1fr;
+  }
+  .poemario-contenido .poemario-c2 {
+    margin-top: 3rem;
+  }
+  .poemario-contenido .poemario-c2 ul {
+    padding: 0;
+  }
+}
 /** About **/
 .about {
   width: 85%;
@@ -455,6 +468,13 @@ h1, h2 {
   color: #c1c5ca;
   margin: 0;
 }
+.about .lu .postdata a i {
+  color: #c1c5ca;
+  transition: 0.15s ease;
+}
+.about .lu .postdata a i:hover {
+  color: crimson;
+}
 .about .yo .postdata {
   position: absolute;
   font-size: 1.8rem;
@@ -462,13 +482,20 @@ h1, h2 {
   bottom: 2rem;
 }
 .about .yo .postdata a i {
-  color: red;
+  color: #c1c5ca;
   transition: 0.15s ease;
 }
 .about .yo .postdata a i:hover {
-  color: aqua;
+  color: crimson;
 }
 
+@media only screen and (max-width: 768px) {
+  .about {
+    width: 90%;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
 /** Cositas **/
 #contador {
   align-items: center;

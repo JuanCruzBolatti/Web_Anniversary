@@ -46,6 +46,17 @@
             font-size: 1.8rem;
             color: #c1c5ca;
             margin: 0;
+
+            a {
+                i {
+                    color: #c1c5ca;
+                    transition: .15s ease;
+
+                    &:hover {
+                        color: crimson;
+                    }
+                }
+            }
         }
     }
 
@@ -58,14 +69,22 @@
 
             a {
                 i {
-                    color: red;
+                    color: #c1c5ca;
                     transition: .15s ease;
 
                     &:hover {
-                        color: aqua;
+                        color: crimson;
                     }
                 }
             }
         }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .about {
+        width: 90%;
+        grid-template-columns: 1fr;
+        gap: 1rem;
     }
 }
