@@ -10,7 +10,7 @@ app.set('view engine', 'handlebars');
 
 /* Set Port */
 // app.set('port', process.env.PORT || 3000);
-const port = process.env.PORT || 3000
+const PORT = process.env.PORT || 3000
 app.use(express.static(__dirname + '/public'));
 
 /* Routing */
@@ -60,3 +60,4 @@ app.get('/', function (req, res) {
         title: "Aniversario",
     });
 });
+
