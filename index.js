@@ -59,9 +59,3 @@ app.get('/', function (req, res) {
         title: "Aniversario",
     });
 });
-
-/* Port in console */
-app.listen(app.get('port'), function () {
-    console.log('Started on http://localhost:' +
-        app.get('port'));
-});
