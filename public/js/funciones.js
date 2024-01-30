@@ -7,7 +7,7 @@ console.log(numeroEnteroAleatorio);
 
 function randomPoem() {
   const poemas = ['improvisacion_de_un_querer', 'cuna_de_luna', 'estacion', 'rezos', 'improvisacion_de_un_querer_rehecho', 'improvisacion_de_un_amar', 'cuna_de_luna_rehecho', 'canto_de_luna', 'constelaciones'];
-  window.location.href = 'http://localhost:3000/poemario/' + poemas[obtenerEnteroAleatorio(0, 8)];
+  window.location.href = window.location.origin + '/poemario/' + poemas[obtenerEnteroAleatorio(0, 8)];
 }
 
 if (document.getElementById("contador")) {
