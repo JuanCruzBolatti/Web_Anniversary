@@ -16,7 +16,6 @@ The poems are read from JSON files, and thanks to the Handlebars templates, the 
 - Responsive design for various devices.
 - Creative and attractive user interface.
 - Dynamic content using Handlebars templates.
-- Option to display random poems.
 
 ---
 
@@ -36,7 +35,6 @@ Los poemas se leen desde archivos JSON, y gracias a las plantillas de Handlebars
 - Diseño responsivo para diferentes dispositivos.
 - Interfaz de usuario creativa y atractiva.
 - Contenido dinámico utilizando plantillas de Handlebars.
-- Opción para mostrar poemas aleatorios.
 
 ---
 
@@ -56,4 +54,3 @@ Le poesie vengono lette da file JSON e, grazie ai template di Handlebars, le pag
 - Design responsivo per vari dispositivi.
 - Interfaccia utente creativa e attraente.
 - Contenuto dinamico tramite template di Handlebars.
-- Opzione per visualizzare poesie casuali.
