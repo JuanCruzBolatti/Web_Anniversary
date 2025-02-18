@@ -1,6 +1,6 @@
-# Web_Anniversary
+# Web // Anniversary
 
-## English
+##### English
 
 This is a catalog page for poetry books. It contains videos, text, and explanations related to the poems. The technologies used in this project are:
 
@@ -19,7 +19,7 @@ The poems are read from JSON files, and thanks to the Handlebars templates, the 
 
 ---
 
-## Español
+##### Español
 
 Esta es una página de presentación de un catálogo de poemarios. Cuenta con videos, textos y explicaciones relacionados con los poemas. Las tecnologías utilizadas en este proyecto son:
 
@@ -38,7 +38,7 @@ Los poemas se leen desde archivos JSON, y gracias a las plantillas de Handlebars
 
 ---
 
-## Italiano
+##### Italiano
 
 Questa è una pagina di presentazione di un catalogo di libri di poesie. Contiene video, testi e spiegazioni relative alle poesie. Le tecnologie utilizzate in questo progetto sono:
 
